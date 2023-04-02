@@ -11,6 +11,7 @@ env:
   add_binaries_to_github_release: true
   #itch_target: <itch.io-username>/<game-name>
 
+permissions: write-all
 
 jobs:
 
